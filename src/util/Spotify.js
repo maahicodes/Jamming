@@ -1,5 +1,5 @@
-const clientId = '45ba5b12b1cb4fd782467f8b4bb2be3c';
-const redirectUri = 'https://jamm-ming.netlify.app/';  
+const clientId = //'your client id';
+const redirectUri = //'your redirect url';  
 
 let accessToken;
 
